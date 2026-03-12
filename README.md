@@ -49,7 +49,3 @@ textual-canvas-notes/
 ├── requirements.txt
 └── .gitignore
 ```
-
-## License
-
-MIT
